@@ -29,4 +29,6 @@
 |단계|미션명|PR링크|
 |------|---|---|
 |1단계|장바구니(상품 목록)|[링크](https://github.com/next-step/android-shopping-cart/pull/76)|
-|2단계|장바구니(상품 목록)|[링크](https://github.com/next-step/android-shopping-cart/pull/84)|
+|2단계|장바구니(상품 상세)|[링크](https://github.com/next-step/android-shopping-cart/pull/84)|
+|3단계|장바구니(담기)|[링크](https://github.com/next-step/android-shopping-cart/pull/100)|
+|4단계|장바구니(수량)|[링크](https://github.com/next-step/android-shopping-cart/pull/114)|
