@@ -63,4 +63,4 @@
 |------|---|---|
 |1, 2단계|GitHub(데이터 레이어, UI 레이어)|[링크](https://github.com/next-step/android-github-compose/pull/49)|
 |3단계|GitHub(UI 상태)|[링크](https://github.com/next-step/android-github-compose/pull/53)|
-|4단계|GitHub(인기 저장소)|미구현|
+|4단계|GitHub(인기 저장소)|[링크](https://github.com/next-step/android-github-compose/pull/62)|
